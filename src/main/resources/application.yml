@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: social_network_api
+  profiles:
+    default: local
+
